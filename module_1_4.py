@@ -1,0 +1,6 @@
+name = input()
+print(name.upper())
+print(name.lower())
+print(name.replace (' ', '$'))
+print(name[1:2])
+print(name[8:9])
